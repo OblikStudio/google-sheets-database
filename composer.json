@@ -1,0 +1,12 @@
+{
+    "authors": [
+        {
+            "name": "Hristiyan Dodov",
+            "email": "h.dodov@gmail.com",
+            "homepage": "https://dodov.me"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
